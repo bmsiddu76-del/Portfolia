@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    /* You write the header styling */
+}
+
+nav {
+    /* You write the navigation styling */
+}
+
+nav a {
+    /* You write link styling */
+}
+
+.hero {
+    /* You design the hero section */
+}
+
+.buttons {
+    /* Arrange the two buttons */
+}
+
+.features {
+    /* Arrange the three feature boxes */
+}
